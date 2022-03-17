@@ -1,0 +1,4 @@
+- to create an index --> `create index index-name on table-name(columns);`
+- to drop an index --> `drop index index-name; `
+- postgreSQL tables --> `select * from pg_index;` 
+- to create BRIN Index in PostgreSQL --> `Create Index Index-Name ON Table-Name(Columns..) USING BRIN;`

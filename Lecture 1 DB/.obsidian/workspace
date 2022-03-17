@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "3ac323680bbf9e9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65547da9670aa9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lecture 1 DB.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e712a6dc2c715b3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea12c6531662ab01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1f903346292d4b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f95ac0af98a95a0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1fc9e228d0c86588",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 152.01219177246094
+  },
+  "right": {
+    "id": "f77a92dcd73a42ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "56fdee2343fbe654",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa522c310c3cd427",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture 1 DB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9895de09e5b0c73b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a65547da9670aa9a",
+  "lastOpenFiles": [
+    "Lecture 1 DB.md",
+    "all DB2 SQL quries.md",
+    "Pasted image 20220315212113.png",
+    "Pasted image 20220315221213.png",
+    "2022-03-15.md",
+    "Untitledasdasd.md",
+    "obsidian.md"
+  ]
+}
