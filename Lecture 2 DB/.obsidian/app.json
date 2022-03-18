@@ -3,5 +3,6 @@
   "livePreview": true,
   "foldIndent": true,
   "foldHeading": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }
