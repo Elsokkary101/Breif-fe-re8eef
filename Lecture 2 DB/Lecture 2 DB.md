@@ -31,3 +31,24 @@
 
 ![alt text](image/4.png)
 
+- where ___n___ here is the number of values in a node
+- we do ceiling up in the non-leaf because it does branching but in the leaf we don't want more pointers that's why we do flooring down.
+
+this next image sums up all the formulas:
+
+![alt text](image/5.png)
+
+- note in the previous table when you are trying to calculate for example ___Min ptrs___, the ___n___ there refers to the number of keys and in the ___Min Keys___, the ___n___ refers to number of pointers
+- Insertion / deletion algorithm gurantee that the tree is always balanced.
+
+-  See insertion and deletion techniques in lectrure slides.
+
+#### When to use a B+ Tree Index ?
+- Support queries on exact values or involving range search (i.e we want to see the values between 15 and 50)
+- support aggregate functions
+
+#### TakeAway 10
+
+![alt text](image/6.png)
+- To create an index using B+ Tree in PostgreSQL --> `create index index-name on table-name (column) using B_tree;`
+- 

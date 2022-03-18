@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.01219177246094
+    "width": 198.01219177246094
   },
   "right": {
     "id": "a0494e995b4ce196",
@@ -90,6 +90,7 @@
   "active": "ba76394a14cfddda",
   "lastOpenFiles": [
     "Lecture 2 DB.md",
+    "image/4.png",
     "image/1.png.png",
     "![[1.png.png]].md",
     "![[Pasted.md"
