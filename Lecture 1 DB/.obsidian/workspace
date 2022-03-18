@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 152.01219177246094
+    "width": 308.01219177246094
   },
   "right": {
     "id": "f77a92dcd73a42ad",
@@ -109,6 +109,7 @@
   "active": "a65547da9670aa9a",
   "lastOpenFiles": [
     "Lecture 1 DB.md",
+    "image/GUCSSS.JPG.md",
     "all DB2 SQL quries.md",
     "Pasted image 20220315212113.png",
     "Pasted image 20220315221213.png",
