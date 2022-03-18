@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "3ac323680bbf9e9a",
+    "id": "6d6b001f206ae992",
     "type": "split",
     "children": [
       {
-        "id": "182d21bf5999ec87",
+        "id": "ba76394a14cfddda",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Lecture 2 DB.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e712a6dc2c715b3c",
+    "id": "c97610481e7596fe",
     "type": "split",
     "children": [
       {
-        "id": "ea12c6531662ab01",
+        "id": "82c4520dfa9074e2",
         "type": "tabs",
         "children": [
           {
-            "id": "a1f903346292d4b1",
+            "id": "69af8bfa42557285",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "f95ac0af98a95a0e",
+            "id": "ce0c3ee158160623",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -44,35 +48,28 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "1fc9e228d0c86588",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.01219177246094
+    "width": 300
   },
   "right": {
-    "id": "f77a92dcd73a42ad",
+    "id": "a0494e995b4ce196",
     "type": "split",
     "children": [
       {
-        "id": "56fdee2343fbe654",
+        "id": "a7164840dc5fafeb",
         "type": "tabs",
         "children": [
           {
-            "id": "fa522c310c3cd427",
+            "id": "cf6f5836ebf63573",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture 2 DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,17 +77,6 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9895de09e5b0c73b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           }
@@ -101,16 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "182d21bf5999ec87",
+  "active": "ba76394a14cfddda",
   "lastOpenFiles": [
     "Lecture 2 DB.md",
-    "Lecture 1 DB.md",
-    "all DB2 SQL quries.md",
-    "image/GUCSSS.JPG.md",
-    "Pasted image 20220315212113.png",
-    "Pasted image 20220315221213.png",
-    "2022-03-15.md",
-    "Untitledasdasd.md",
-    "obsidian.md"
+    "![[1.png.png]].md",
+    "image/1.png.png",
+    "![[Pasted.md"
   ]
 }

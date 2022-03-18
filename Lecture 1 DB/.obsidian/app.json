@@ -4,5 +4,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "tabSize": 2,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false
 }
