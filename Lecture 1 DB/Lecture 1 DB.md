@@ -19,7 +19,7 @@
 ##### Take Away 1
 ![alt text](image/1.png)
 
-### RDBMS Architecture (___VIP)
+### RDBMS Architecture (_VIP_)
 - __SQL__ :  4th generation language it's like prolog where you give him some instrustions and you don'e know what is happening back
 - __Query Processor__ :  it will take the quries that should be executed in SQL and then it will tell you ___oh! there is syntax error here___  
 - __Transaction Processor__ :  it will take the output from __Query Processor__ and then create a container (transaction) and pass it to __scheduler__.
@@ -32,7 +32,6 @@
 -  dividing the table into several chunks which are called page to reduce the size of the table 
 - early databases were stored in paper tape , Magnetic tapes. 
 - _Sqeuential File Access_ : start from the beggining and passing through all the data row by row untill I get the data I want. (Like LinkedList).
--
 - what if I need to retrieve row number 10 where they are located on the tape ?
 - ___Fixed Length Record___ : for every table you study all columns in the table and then you find the length of every column in terms of bytes. and then you want know the maximum size that you will ever need.
 -> For example
@@ -142,6 +141,7 @@ ____
 ![alt text](image/18.png)
 
 - we could have Multi-level BRIN index
+
 ![alt text](image/19.png)
 
 - When to Use BRIN Index ?
