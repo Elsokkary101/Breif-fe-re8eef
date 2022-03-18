@@ -6,4 +6,4 @@
 - we have some rules we should obey :
   - all leaves are at the same lowest level
   - pointers in leaves point to records except for __"Sequence pointer"__.
-![alt text](image/1.png.png)
+![alt text](![[image/1.png.png]])
