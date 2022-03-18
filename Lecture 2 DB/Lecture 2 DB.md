@@ -13,4 +13,21 @@
 - _for example value 52 has an arrow below it which is referring to a row which has a column (index) of value 52_
 -  notice here that there is a neighbour refernce pointing to the next leaf. 
 
+- NON-Leaf 
+
 ![alt text](image/2.png.png)
+
+- this is not __Binary Search tree__ as it has more than 2 children.
+- note the if you have 3 values we will have 4 pointers :
+  so there is a formula to that which is  ___n = m +1___ where ___m___ is the number of values in one page and ___m___ is the number of pointers.
+
+- For example :
+
+![alt text](image/3.png.png)
+
+- note that in the image above we have ___n = 3___ which tells you the maximum number of key you could have in a node. __Also__ note that we have the last row of leaves the values were sorted from left to right.
+
+### Important NOTE !!!! The minimum of node we could have if it is 
+
+![alt text](image/4.png)
+
