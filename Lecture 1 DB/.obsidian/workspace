@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "182d21bf5999ec87",
+        "id": "ed83bd8c6d5e41b3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Lecture 1 DB.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture 1 DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,16 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "182d21bf5999ec87",
+  "active": "ed83bd8c6d5e41b3",
   "lastOpenFiles": [
-    "Lecture 2 DB.md",
     "Lecture 1 DB.md",
+    "image/10.png",
+    "image/9.png",
+    "image/6.png",
+    "image/7.png",
+    "Lecture 2 DB.md",
     "all DB2 SQL quries.md",
     "image/GUCSSS.JPG.md",
-    "Pasted image 20220315212113.png",
-    "Pasted image 20220315221213.png",
-    "2022-03-15.md",
-    "Untitledasdasd.md",
-    "obsidian.md"
+    "image/11.png",
+    "image/12.png"
   ]
 }

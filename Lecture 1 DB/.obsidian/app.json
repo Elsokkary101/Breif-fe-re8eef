@@ -5,5 +5,6 @@
   "foldIndent": true,
   "tabSize": 2,
   "readableLineLength": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

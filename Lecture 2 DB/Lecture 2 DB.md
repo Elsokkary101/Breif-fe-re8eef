@@ -51,4 +51,3 @@ this next image sums up all the formulas:
 
 ![alt text](image/6.png)
 - To create an index using B+ Tree in PostgreSQL --> `create index index-name on table-name (column) using B_tree;`
-- 
