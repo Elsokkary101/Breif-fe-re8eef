@@ -118,6 +118,8 @@ ____
 - __Sparse__  : Less index space per record but you go into the table more.
 - __Dense__  : Can tell if any record exists without accessing relation file but it takes more memory.
 
+- Note : Dense is referring to data record directly while sparse indexing is referring to __Blocks__ containg data record. 
+
 - if you are using Primary dense key and there are duplicate keys. So we have to include all keys but there is a problem where it will consume more memory.
 
 ![alt text](image/14.png)
